@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: print hello
-        run: echo "hello team"
+        run: echo "hello fan team"
       - name: print hi
         run: echo "hi team new"
